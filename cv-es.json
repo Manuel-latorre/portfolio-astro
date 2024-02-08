@@ -1,0 +1,183 @@
+{
+    "basics": {
+      "name": "Manuel Latorre",
+      "label": "Desarrollador Web Full Stack",
+      "image": "https://avatars.githubusercontent.com/u/104037504?v=4",
+      "email": "manuel.latorre11@gmail.com",
+      "github": "https://github.com/Manuel-latorre",
+      "phone": "2266661736",
+      "summary": "Soy un Desarrollador Fullstack. Mi experiencia abarca tanto el Frontend como el Backend, lo que me permite ofrecer soluciones completas. En la creación de proyectos, prefiero trabajar con el stack MERN (MongoDB, Express, React y Node.js) como base tecnológica. Transitando el Bootcamp de Henry trabajé en proyectos individuales y grupales con metodologías ágiles como SCRUM y también desarrollé habilidades como la escucha activa, la proactividad, el trabajo en equipo y las buenas prácticas.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Mar Del Plata",
+        "countryCode": "AR",
+        "region": "Buenos Aires"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Manuel Latorre",
+          "url": "https://www.linkedin.com/in/manuel-latorre-936b72223/"
+        },
+        {
+          "network": "Github",
+          "username": "Manuel Latorre",
+          "url": "https://github.com/Manuel-latorre"
+        }
+      
+      ]
+    },
+    "work": [{
+      "name": "Tu Mejor Amigo",
+      "position": "Desarrollador Frontend",
+      "url": "https://www.linkedin.com/company/tu-mejor-amigo/about/",
+      "startDate": "2023/14/11",
+      "endDate": "Actual",
+      "summary": "He participado en la creación de interfaces de usuario atractivas y funcionales. Además, he trabajado en el manejo del información mediantes peticiones GET, POST, PUT y DELETE a la base de datos de la app. Implementé el manejo de notificaciones en la app utilizando React Native Firebase Cloud Messaging para mantener a los usuarios informados y comprometidos. También integré la funcionalidad de carga de imágenes en la aplicación utilizando Cloudinary, lo que permitió a los usuarios subir fácilmente sus propias imágenes. Además, me encargué del despliegue de la aplicación en Google Play Console para que esté disponible para los usuarios finales. Durante mi trabajo, he utilizado tecnologías modernas como React Native y TypeScript para garantizar un desarrollo eficiente y de alta calidad.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [
+      {
+        "institution": "Coderhouse",
+        "url": "https://coderhouse.com/",
+        "area": "Desarrollo Web",
+        "studyType": "Curso",
+        "startDate": "2022/15/03",
+        "endDate": "2022/20/05"
+      },
+      {
+        "institution": "Coderhouse",
+        "url": "https://coderhouse.com/",
+        "area": "Javascript",
+        "studyType": "Curso",
+        "startDate": "2022/06/07",
+        "endDate": "2022/10/10"
+      },
+      {
+        "institution": "Henry",
+        "url": "https://soyhenry.com/",
+        "area": "Desarrollo Fullstack",
+        "studyType": "Bootcamp",
+        "startDate": "2023/13/03",
+        "endDate": "2023/06/07"
+      }
+  ],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "Javascript"
+      },
+      {
+        "name": "Typescript"
+      },
+      {
+        "name": "Astro"
+      },
+      {
+        "name": "React"
+      },
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Express"
+      },
+      {
+        "name": "PostgreSQL"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Github"
+      }
+      
+      
+
+  ],
+    "languages": [{
+      "language": "Inglés",
+      "fluency": "C1 Avanzado",
+      "url": "https://www.efset.org/cert/sxi7Ea"
+    }],
+    "projects": [
+      {
+        "name": "Infinity",
+        "isActive": true,
+        "description": "Se trata de un E-commerce de productos orientados al gaming(auriculares, mouses, teclados, mousepads). Cree mi propia API y tambien cuenta con una pasarela de pagos de Mercado Pago",
+        "url": "https://infinity-ecommerce.vercel.app/",
+        "repository": "https://github.com/Manuel-latorre/infinity-ecommerce",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "Next.js",
+          "Express",
+          "MongoDB"
+        ]
+    },
+    {
+      "name": "API Infinity",
+      "isActive": true,
+      "description": "Cree un API de productos orientados al gaming(auriculares, mouses, teclados, mousepads).",
+      "url": "https://api-ecommerce-kappa.vercel.app/products",
+      "repository": "https://github.com/Manuel-latorre/api-ecommerce",
+      "technologies": [
+        "Javascript",
+        "Express",
+        "MongoDB"
+      ]
+  },
+{
+  "name": "Generación Tech",
+  "isActive": true,
+  "description": "Generación Tech se trata de una SPA(Single page application), que ofrece servicios de desarrollo web, marketing digital y comercio electronico.",
+  "url": "https://www.generaciontech.com.ar/",
+  "repository": "https://github.com/Manuel-latorre/GT-Nextjs-GT",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "Typescript",
+    "Next.js"
+    
+  ]
+}
+  ]
+  }
+
+
+
+
